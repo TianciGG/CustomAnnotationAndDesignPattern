@@ -1,6 +1,5 @@
 package chauncy.designpattern.singleton;
 
-import com.sun.swing.internal.plaf.synth.resources.synth;
 
 /**
  * 
